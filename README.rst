@@ -1,7 +1,7 @@
 
 
-Advanced Python
-###################
+TomNet
+##########
 
 |
 |
@@ -14,38 +14,30 @@ References
 |
 
 
-Do 
-~~~~~~~~~~
-* create super functions
-* get examples of well written python code
-* goal: much much better with python 
+Utility Functions 
+~~~~~~~~~~~~~~~~~~~~
+* abc
+
+
+|
+
+
+Getting Pytorch optimized on Windows 10 x64
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* abc
 
 
 
+|
+
+
+Getting Pytorch optimized on Windows 10 WSL2 (Ubuntu Linux Shell)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* abc
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|
 
 
 
