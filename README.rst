@@ -20,7 +20,6 @@ Pytorch Implementation
 
 
 
-
 |
 |
 |
@@ -30,8 +29,6 @@ Pytorch Implementation
 Pytorch
 ===========
 
-
-|
 
 
 
@@ -47,7 +44,8 @@ Pytorch Utility Functions
 
 Getting Pytorch optimized on Windows 10 x64
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* abc
+* <>
+
 
 
 |
@@ -56,7 +54,7 @@ Getting Pytorch optimized on Windows 10 x64
 
 Getting Pytorch optimized on Windows 10 WSL2 (Ubuntu Linux Shell)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* abc
+* <>
 
 
 
